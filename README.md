@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Aman-ydav/PEP-Classes/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -16,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
