@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -47,11 +48,13 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
