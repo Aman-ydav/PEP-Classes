@@ -8,6 +8,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-ydav/PEP-Classes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -48,6 +50,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-ydav/PEP-Classes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aman-ydav/PEP-Classes/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aman-ydav/PEP-Classes/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -59,6 +62,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -70,6 +74,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -77,10 +82,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +129,8 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
