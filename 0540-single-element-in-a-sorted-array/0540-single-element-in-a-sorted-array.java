@@ -9,9 +9,8 @@ class Solution {
         while(i<=j){
             int m = i+(j-i)/2;
             if(m%2==0){
-                // System.out.println(nums[m]+" "+m);
                 if(m+1<n && nums[m]==nums[m+1]){
-                    i = m;
+                    i = m+1;
                     continue;
                 }
                 else if(m>0 && nums[m]==nums[m-1]){
@@ -27,11 +26,10 @@ class Solution {
 
                 if(m>0 && nums[m]==nums[m-1]){
                     i = m+1;
-                    System.out.println(nums[m]+" "+m);
                     continue;
                 }
                 else if(m+1<n && nums[m]==nums[m+1]){
-                    j = m;
+                    j = m-1;
                     continue;
                 }
                 else{
