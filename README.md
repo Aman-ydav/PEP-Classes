@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Trie
