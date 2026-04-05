@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aman-ydav/PEP-Classes/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -30,6 +31,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -134,6 +136,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
