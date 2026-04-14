@@ -19,10 +19,7 @@ class Solution {
             s.push(i);
         }
 
-        for(int i=0;i<n;i++){
-            System.out.print(ps[i]+" ");
-        }
-         System.out.println();
+       
         s.clear();
         ns[n-1] = n;
         s.push(n-1);
@@ -38,9 +35,7 @@ class Solution {
             }
             s.push(i);
         }
-         for(int i=0;i<n;i++){
-            System.out.print(ns[i]+" ");
-        }
+      
         int ans=0;
         for(int i=0;i<n;i++){
             int h = heights[i];
