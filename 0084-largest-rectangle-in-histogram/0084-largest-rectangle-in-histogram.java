@@ -1,45 +1,51 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        int ans = 0;
-        Deque<Integer> st = new ArrayDeque<>();
-        int[] nse = new int[n];
-        int[] pse = new int[n];
-        int x =0;
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && heights[st.peek()]>heights[i]){
-                st.pop();
+        int[] ps = new int[n];
+        int[] ns = new int[n];
+        Stack<Integer> s = new Stack<>();
+        ps[0] = -1;
+        s.push(0);
+        for(int i=1;i<n;i++){
+            while(!s.isEmpty() && heights[s.peek()]>=heights[i]){
+                s.pop();
             }
-            if(st.isEmpty()){
-                pse[x++] = -1;
-            }
-            else{
-                pse[x++] = st.peek();
-            }
-            st.push(i);
-        }
-
-        st.clear();
-        x = n-1;
-
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && heights[st.peek()]>heights[i]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                nse[x--] = n;
+            if(s.isEmpty()){
+                ps[i]=-1;
             }
             else{
-                nse[x--] = st.peek();
+                ps[i] = s.peek();
             }
-            st.push(i);
+            s.push(i);
         }
 
-
         for(int i=0;i<n;i++){
-            int width = nse[i]-pse[i]-1;
-            int curr = heights[i] * width;
-            ans = Math.max(ans,curr);
+            System.out.print(ps[i]+" ");
+        }
+         System.out.println();
+        s.clear();
+        ns[n-1] = n;
+        s.push(n-1);
+        for(int i=n-2;i>=0;i--){
+            while(!s.isEmpty() && heights[s.peek()]>=heights[i]){
+                s.pop();
+            }
+            if(s.isEmpty()){
+                ns[i] = n;
+            }
+            else{
+                ns[i] = s.peek();
+            }
+            s.push(i);
+        }
+         for(int i=0;i<n;i++){
+            System.out.print(ns[i]+" ");
+        }
+        int ans=0;
+        for(int i=0;i<n;i++){
+            int h = heights[i];
+            int w = ns[i]-ps[i]-1;
+            ans = Math.max(ans,h*w);
         }
         return ans;
     }
