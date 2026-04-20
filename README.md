@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -174,6 +175,7 @@
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -184,4 +186,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aman-ydav/PEP-Classes/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
