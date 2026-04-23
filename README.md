@@ -17,6 +17,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -179,6 +180,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/0518-coin-change-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
