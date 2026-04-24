@@ -165,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aman-ydav/PEP-Classes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0155-min-stack](https://github.com/Aman-ydav/PEP-Classes/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
@@ -211,4 +212,8 @@
 | [1148-article-views-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aman-ydav/PEP-Classes/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aman-ydav/PEP-Classes/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Aman-ydav/PEP-Classes/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
