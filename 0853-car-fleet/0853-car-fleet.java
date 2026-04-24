@@ -1,24 +1,39 @@
 class Solution {
+    class Pair{
+         int position;
+         double time;
+        public Pair(int position,double time){
+            this.position = position;
+            this.time = time;
+        }
+    }
     public int carFleet(int target, int[] position, int[] speed) {
-        int n = speed.length;
-        ArrayList<float[]> list = new ArrayList<>();
+        int n = position.length;
+        int distance_rem[] = new int[n];
+
+        Pair[] cars = new Pair[n];
         for(int i=0;i<n;i++){
-            float time = (float)(target-position[i])/(float)speed[i];
-            list.add(new float[]{position[i],time});
+            double t = (double)(target-position[i]);
+            double ti = t/(double)speed[i];
+            cars[i] = new Pair(position[i],ti);
+            // System.out.println(ti);
         }
 
-        Collections.sort(list, (a, b) -> Float.compare(b[0], a[0]));
+        Arrays.sort(cars,(a,b)->b.position-a.position);
 
-        Deque<Float> st = new ArrayDeque<>();
+        Stack<Integer> s = new Stack<>();
 
-        for(float[] car : list){
-            float currTime = car[1];
+        int fleet=0;
+        double prevtime=0;    
 
-            if (st.isEmpty() || currTime > st.peek()) {
-                st.push(currTime);
-            }
+        for(Pair car : cars){
+            // System.out.print(car.time+" ");
+           if(car.time>prevtime){
+                fleet++;
+                prevtime = car.time;
+           }
         }
 
-        return st.size();
+        return fleet;
     }
 }
