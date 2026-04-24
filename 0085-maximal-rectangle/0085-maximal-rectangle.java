@@ -2,66 +2,57 @@ class Solution {
     public int maximalRectangle(char[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
-        int[] arr = new int[m];
-        int x=0;
-        int ans =0;
+        int arr[] = new int[m];
+        int max = 0;
         for(int i=0;i<n;i++){
-            x=0;
             for(int j=0;j<m;j++){
-                if(matrix[i][j]=='0'){
-                    arr[x++]=0;
-                }
-                else{
-                    arr[x] += 1;
-                    x++;
-                }
+                if(matrix[i][j]=='0') arr[j] = 0;
+                else arr[j] += matrix[i][j]-'0';
             }
-            int area = largestRectangleArea(arr);
-            ans = Math.max(ans,area);
+            max = Math.max(max,histogram(arr));
         }
-        return ans;
+        return max;
     }
-    int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        int ans = 0;
-        Deque<Integer> st = new ArrayDeque<>();
-        int[] nse = new int[n];
-        int[] pse = new int[n];
-        int x =0;
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                pse[x++] = -1;
-            }
-            else{
-                pse[x++] = st.peek();
-            }
-            st.push(i);
-        }
+    int histogram(int[] arr){
+        int n = arr.length;
 
-        st.clear();
-        x = n-1;
+        Stack<Integer> s = new Stack<>();
+
+        int[] ps = new int[n];
+        int[] ns = new int[n];
+
+        for(int i=0;i<n;i++){
+            
+            while(!s.isEmpty() && arr[s.peek()] >= arr[i]){
+                s.pop();
+            }
+            if(s.isEmpty()) ps[i] = -1;
+            else{
+                ps[i] = s.peek();
+            }
+            s.push(i);
+        }
+        s.clear();
 
         for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
-                st.pop();
+            
+            while(!s.isEmpty() && arr[s.peek()] >= arr[i]){
+                s.pop();
             }
-            if(st.isEmpty()){
-                nse[x--] = n;
-            }
+            if(s.isEmpty()) ns[i] = n;
             else{
-                nse[x--] = st.peek();
+                ns[i] = s.peek();
             }
-            st.push(i);
+            s.push(i);
         }
+        int max =0;
 
         for(int i=0;i<n;i++){
-            int width = nse[i]-pse[i]-1;
-            int curr = heights[i] * width;
-            ans = Math.max(ans,curr);
+            int h = arr[i];
+            int w = ns[i]-ps[i]-1;
+            max = Math.max(max, h * w);
         }
-        return ans;
+
+        return max;
     }
 }
