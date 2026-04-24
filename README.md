@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aman-ydav/PEP-Classes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -165,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aman-ydav/PEP-Classes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/Aman-ydav/PEP-Classes/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
@@ -172,12 +175,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aman-ydav/PEP-Classes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aman-ydav/PEP-Classes/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Aman-ydav/PEP-Classes/tree/main/0091-decode-ways/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
