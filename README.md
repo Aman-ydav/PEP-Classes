@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Aman-ydav/PEP-Classes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aman-ydav/PEP-Classes/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -158,6 +159,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Aman-ydav/PEP-Classes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
