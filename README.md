@@ -210,6 +210,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Aman-ydav/PEP-Classes/tree/main/0322-coin-change/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -228,12 +229,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
