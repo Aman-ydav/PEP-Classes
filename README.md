@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-ydav/PEP-Classes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0091-decode-ways](https://github.com/Aman-ydav/PEP-Classes/tree/main/0091-decode-ways/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aman-ydav/PEP-Classes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -208,6 +209,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -233,17 +235,20 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
