@@ -13,101 +13,60 @@
  *     }
  * }
  */
-// class Solution {
-//     class View{
-//         TreeNode node;
-//         int hd;
-//         int row;
-//         public View(TreeNode node,int hd,int row){
-//             this.node = node;
-//             this.hd = hd;
-//             this.row=row;
-//         }
-//     }
-//      List<List<Integer>> verticalTraversal(TreeNode root) {
-//         List<List<Integer>> list = new ArrayList<>();
-//         Queue<View> q = new LinkedList<>();
-//         int min=0,max=0;
-//         Map<Integer,ArrayList<Integer>> map = new HashMap<>();
-//         q.add(new View(root,0,0));
-//         while(!q.isEmpty()){
-//             View curr = q.remove();
-//             if(map.containsKey(curr.hd)){
-                
-//                 map.get(curr.hd).add(curr.node.val);
-//             }
-//             else{
-//                 ArrayList<Integer> l = new ArrayList<>();
-//                 l.add(curr.node.val);
-//                 map.put(curr.hd,l);
-//             }
-            
-//             if(curr.node.left!=null){
-//                 q.add(new View(curr.node.left,curr.hd-1, curr.row+1));
-//                 min = Math.min(min,curr.hd-1);
-//             }
-//             if(curr.node.right!=null){
-//                 q.add(new View(curr.node.right,curr.hd+1, curr.row + 1));
-//                 max = Math.max(max,curr.hd+1);
-//             }
-//         }
-
-//         for(int i=min;i<=max;i++){
-//             list.add(map.get(i));
-//         }
-        
-//         return list;
-//     }
-// }
-
 class Solution {
-    class View {
+    class Point{
         TreeNode node;
-        int hd;
         int row;
-        public View(TreeNode node, int hd, int row) {
+        int col;
+        public Point(TreeNode node,int row,int col){
             this.node = node;
-            this.hd = hd;
             this.row = row;
+            this.col = col;
         }
     }
-
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
-        Queue<View> q = new LinkedList<>();
-        int min = 0, max = 0;
-        Map<Integer, List<int[]>> map = new HashMap<>();
-
-        q.add(new View(root, 0, 0));
-        while (!q.isEmpty()) {
-            View curr = q.remove();
-            map.computeIfAbsent(curr.hd, k -> new ArrayList<>())
-                .add(new int[]{curr.row, curr.node.val});
-
-            if (curr.node.left != null) {
-                q.add(new View(curr.node.left, curr.hd - 1, curr.row + 1));
-                min = Math.min(min, curr.hd - 1);
-            }
-            if (curr.node.right != null) {
-                q.add(new View(curr.node.right, curr.hd + 1, curr.row + 1));
-                max = Math.max(max, curr.hd + 1);
+        Queue<Point> q = new LinkedList<>();
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        HashMap<Integer,List<Point>> map = new HashMap<>();
+        q.add(new Point(root,0,0));
+        while(!q.isEmpty()){
+            int n = q.size();
+            for(int i=0;i<n;i++){
+                Point pt = q.remove();
+                min = Math.min(min,pt.col);
+                max = Math.max(max,pt.col);
+                if(map.containsKey(pt.col)){
+                    map.get(pt.col).add(pt);  
+                    Collections.sort(map.get(pt.col),(a,b)->{ 
+                        if(a.row==b.row){
+                           return a.node.val-b.node.val;
+                        }
+                        return a.row-b.row;
+                    });
+                }
+                else{
+                    List<Point> l = new ArrayList<>();
+                    l.add(pt);
+                    map.put(pt.col,l);
+                }
+                if(pt.node.left!=null){
+                    q.add(new Point(pt.node.left,pt.row+1,pt.col-1));
+                }
+                if(pt.node.right!=null){
+                    q.add(new Point(pt.node.right,pt.row+1,pt.col+1));
+                }
             }
         }
-
-        for (int i = min; i <= max; i++) {
-            List<int[]> nodes = map.get(i);
-            nodes.sort((a, b) -> {
-                if (a[0] != b[0]) return a[0] - b[0];  // sort by row
-                return a[1] - b[1];                    // sort by value
-            });
-
-            List<Integer> col = new ArrayList<>();
-            for (int[] n : nodes) {
-                col.add(n[1]);
+        for(int i=min;i<=max;i++){
+            List<Point> l = map.get(i);
+            List<Integer> lt = new ArrayList<>();
+            for(int j=0;j<l.size();j++){
+                lt.add(l.get(j).node.val);
             }
-            list.add(col);
+            list.add(lt);
         }
-
         return list;
     }
 }
