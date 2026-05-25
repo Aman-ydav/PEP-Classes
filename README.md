@@ -214,6 +214,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Aman-ydav/PEP-Classes/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -235,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -257,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
