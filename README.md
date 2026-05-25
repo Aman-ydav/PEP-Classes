@@ -237,6 +237,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -247,6 +248,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -257,6 +259,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
