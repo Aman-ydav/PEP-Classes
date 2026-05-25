@@ -190,6 +190,7 @@
 | [0070-climbing-stairs](https://github.com/Aman-ydav/PEP-Classes/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Aman-ydav/PEP-Classes/tree/main/0091-decode-ways/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Aman-ydav/PEP-Classes/tree/main/0322-coin-change/) | Medium |
@@ -238,6 +239,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
@@ -249,6 +251,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
@@ -261,6 +264,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Aman-ydav/PEP-Classes/tree/main/0257-binary-tree-paths/) | Easy |
