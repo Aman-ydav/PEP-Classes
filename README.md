@@ -226,6 +226,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Aman-ydav/PEP-Classes/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -253,6 +254,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -268,6 +270,7 @@
 | [0101-symmetric-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -285,6 +288,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aman-ydav/PEP-Classes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -297,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
