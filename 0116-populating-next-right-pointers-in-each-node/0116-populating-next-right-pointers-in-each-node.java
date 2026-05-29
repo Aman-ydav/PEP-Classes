@@ -26,15 +26,11 @@ class Solution {
         Queue<Node> q = new LinkedList<>();
         if(root==null) return null;
         q.add(root);
-        root.next = null;
         while(!q.isEmpty()){
             int n = q.size();
             for(int i=0;i<n;i++){
                 Node node = q.remove();
-                if(i==n-1){
-                    node.next = null;
-                }
-                else{
+                if(i!=n-1){
                     node.next = q.peek();
                 }
                 if(node.left!=null) q.add(node.left);
