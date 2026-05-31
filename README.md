@@ -29,6 +29,7 @@
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aman-ydav/PEP-Classes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Aman-ydav/PEP-Classes/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -188,6 +189,7 @@
 | [0155-min-stack](https://github.com/Aman-ydav/PEP-Classes/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@
 | [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +270,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +308,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,4 +320,5 @@
 | [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
