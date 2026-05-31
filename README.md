@@ -11,6 +11,7 @@
 | [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
@@ -150,6 +151,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -253,6 +255,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -289,6 +292,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -309,5 +313,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
