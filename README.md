@@ -248,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -267,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -282,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -305,5 +308,6 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
