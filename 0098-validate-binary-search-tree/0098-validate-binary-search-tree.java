@@ -14,23 +14,17 @@
  * }
  */
 class Solution {
-    long prev = Long.MIN_VALUE;
-    boolean notBinary = true;
+    TreeNode prev = null;
     public boolean isValidBST(TreeNode root) {
-        if(root==null) return true;
-        
-        inorder(root);
-        return notBinary;
+        return inorder(root);
     }
-    void inorder(TreeNode root){
-        if(root==null) return;
-
-        inorder(root.left);
-        if(prev>=root.val){
-            notBinary = false;
-            return;
+    boolean inorder(TreeNode root){
+        if(root==null) return true;
+        if(!inorder(root.left)) return false;
+        if(prev!=null && root.val<=prev.val){
+            return false;
         }
-        prev = root.val;
-        inorder(root.right);
+        prev = root;
+        return inorder(root.right);
     }
 }
