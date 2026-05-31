@@ -11,32 +11,15 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root==null) return null;
-        if(root==p || root==q) return root; 
-
-        TreeNode l = null;
-        TreeNode r = null;
-
+       
         if(root.val<p.val && root.val<q.val){
-            l = null;
+            return lowestCommonAncestor(root.right,p,q);
         }
-        else{
-            l = lowestCommonAncestor(root.left,p,q);
+      
+        if(root.val>p.val && root.val>q.val){
+            return lowestCommonAncestor(root.left,p,q);
         }
-        
-         if(root.val>p.val && root.val>q.val){
-            r = null;
-        }
-        else{
-            r = lowestCommonAncestor(root.right,p,q);
-        }
-        
-
-        if(l==null && r==null) return null;
-        if(l==null && r!=null){
-            return r;
-        }
-        if(r==null && l!=null) return l;
-
+      
         return root;
     }
 }
