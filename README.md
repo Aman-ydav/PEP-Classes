@@ -39,12 +39,14 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Aman-ydav/PEP-Classes/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aman-ydav/PEP-Classes/tree/main/0011-container-with-most-water/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@
 | [0011-container-with-most-water](https://github.com/Aman-ydav/PEP-Classes/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +182,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aman-ydav/PEP-Classes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
