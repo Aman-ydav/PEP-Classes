@@ -147,6 +147,7 @@
 | [0011-container-with-most-water](https://github.com/Aman-ydav/PEP-Classes/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
