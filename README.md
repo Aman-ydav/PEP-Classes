@@ -90,6 +90,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aman-ydav/PEP-Classes/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aman-ydav/PEP-Classes/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,4 +336,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 <!---LeetCode Topics End-->
