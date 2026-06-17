@@ -91,6 +91,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aman-ydav/PEP-Classes/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +341,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 <!---LeetCode Topics End-->
