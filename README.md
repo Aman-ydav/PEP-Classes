@@ -157,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/Aman-ydav/PEP-Classes/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Aman-ydav/PEP-Classes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
