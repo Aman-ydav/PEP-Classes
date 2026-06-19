@@ -36,6 +36,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aman-ydav/PEP-Classes/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Aman-ydav/PEP-Classes/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Aman-ydav/PEP-Classes/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -343,4 +344,8 @@
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Aman-ydav/PEP-Classes/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
