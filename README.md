@@ -37,6 +37,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aman-ydav/PEP-Classes/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/Aman-ydav/PEP-Classes/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Aman-ydav/PEP-Classes/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -109,6 +110,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1840-maximum-building-height](https://github.com/Aman-ydav/PEP-Classes/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aman-ydav/PEP-Classes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
@@ -159,6 +161,7 @@
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aman-ydav/PEP-Classes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/Aman-ydav/PEP-Classes/tree/main/1840-maximum-building-height/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
