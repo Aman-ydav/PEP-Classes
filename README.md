@@ -231,6 +231,7 @@
 | [0494-target-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/0518-coin-change-ii/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Aman-ydav/PEP-Classes/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
