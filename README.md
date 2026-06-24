@@ -166,6 +166,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aman-ydav/PEP-Classes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aman-ydav/PEP-Classes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aman-ydav/PEP-Classes/tree/main/1840-maximum-building-height/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/0518-coin-change-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
