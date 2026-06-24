@@ -43,6 +43,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Aman-ydav/PEP-Classes/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +352,7 @@
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3701-compute-alternating-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
