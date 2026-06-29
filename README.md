@@ -14,6 +14,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman-ydav/PEP-Classes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-ydav/PEP-Classes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
@@ -235,6 +236,7 @@
 | [0070-climbing-stairs](https://github.com/Aman-ydav/PEP-Classes/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Aman-ydav/PEP-Classes/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Aman-ydav/PEP-Classes/tree/main/0091-decode-ways/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman-ydav/PEP-Classes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Aman-ydav/PEP-Classes/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
