@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Aman-ydav/PEP-Classes/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/Aman-ydav/PEP-Classes/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -148,6 +149,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aman-ydav/PEP-Classes/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@
 | [0011-container-with-most-water](https://github.com/Aman-ydav/PEP-Classes/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Aman-ydav/PEP-Classes/tree/main/0075-sort-colors/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -199,6 +202,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-ydav/PEP-Classes/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aman-ydav/PEP-Classes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
