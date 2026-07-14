@@ -74,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman-ydav/PEP-Classes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Aman-ydav/PEP-Classes/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aman-ydav/PEP-Classes/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aman-ydav/PEP-Classes/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -174,6 +175,7 @@
 | [0018-4sum](https://github.com/Aman-ydav/PEP-Classes/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/Aman-ydav/PEP-Classes/tree/main/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -373,6 +375,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
