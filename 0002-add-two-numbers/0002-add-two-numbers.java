@@ -11,21 +11,34 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode d = new ListNode(0);
-        ListNode curr = d;
+        ListNode d1 = d;
+        ListNode c1 = l1;
+        ListNode c2 = l2;
         int carry = 0;
-        while(l1!=null || l2!=null || carry!=0){
-            int sum = carry;
-            if(l1!=null){
-                sum+=l1.val;
-                l1 = l1.next;
-            }
-            if(l2!=null){
-                sum+=l2.val;
-                l2 = l2.next;
-            }
-            carry = sum/10;
-            curr.next = new ListNode(sum%10);
-            curr = curr.next;
+        while(c1!=null && c2!=null){
+            int v = c1.val+c2.val+carry;
+            d1.next = new ListNode(v%10);
+            carry = v/10;
+            d1 = d1.next;
+            c1 = c1.next;
+            c2 = c2.next;
+        }
+        while(c1!=null){
+            int v = c1.val+carry;
+            d1.next = new ListNode(v%10);
+            carry = v/10;
+            d1 = d1.next;
+            c1 = c1.next;
+        }
+        while(c2!=null){
+            int v = c2.val+carry;
+            d1.next = new ListNode(v%10);
+            carry = v/10;
+            d1 = d1.next;
+            c2 = c2.next;
+        }
+        if(carry==1){
+            d1.next = new ListNode(1);
         }
         return d.next;
     }
