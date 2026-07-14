@@ -176,6 +176,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/Aman-ydav/PEP-Classes/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aman-ydav/PEP-Classes/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -235,6 +236,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0155-min-stack](https://github.com/Aman-ydav/PEP-Classes/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aman-ydav/PEP-Classes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/Aman-ydav/PEP-Classes/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-ydav/PEP-Classes/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -270,6 +272,7 @@
 | [0002-add-two-numbers](https://github.com/Aman-ydav/PEP-Classes/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aman-ydav/PEP-Classes/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -377,6 +380,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aman-ydav/PEP-Classes/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman-ydav/PEP-Classes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aman-ydav/PEP-Classes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search Tree
